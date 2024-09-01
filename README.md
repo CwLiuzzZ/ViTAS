@@ -19,9 +19,10 @@ Pretrained models leading to our [SoTA KITTI benchmark results](https://www.cvli
 Results of our KITTI benchmark results can be downloaded from [2012(google drive)](https://drive.google.com/file/d/1HxZIrBZvYjt8g4NOXisj3TxkQmrjvQ66/view?usp=drive_link) and [2015(google drive)](https://drive.google.com/file/d/15jCzdIa_2gxF7LLoulsdY3vwRNwBB6_t/view?usp=drive_link).
 
 ## Dataset Preparation
-To train/evaluate NMRF-Stereo, you will need to download the required datasets.
+To train/evaluate ViTAStereo, you will need to download the required datasets.
 
 * [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html#:~:text=on%20Academic%20Torrents-,FlyingThings3D,-Driving) (Includes FlyingThings3D, Driving)
+* [Virtual KITTI 2]([https://vision.middlebury.edu/stereo/data/](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/))
 * [Middlebury](https://vision.middlebury.edu/stereo/data/)
 * [ETH3D](https://www.eth3d.net/datasets#low-res-two-view-test-data)
 * [KITTI 2012](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stereo)
