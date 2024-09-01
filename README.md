@@ -22,7 +22,7 @@ Results of our KITTI benchmark results can be downloaded from [2012(google drive
 To train/evaluate ViTAStereo, you will need to download the required datasets.
 
 * [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html#:~:text=on%20Academic%20Torrents-,FlyingThings3D,-Driving) (Includes FlyingThings3D, Driving)
-* [Virtual KITTI 2]([https://vision.middlebury.edu/stereo/data/](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/))
+* [Virtual KITTI 2](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/)
 * [Middlebury](https://vision.middlebury.edu/stereo/data/)
 * [ETH3D](https://www.eth3d.net/datasets#low-res-two-view-test-data)
 * [KITTI 2012](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stereo)
