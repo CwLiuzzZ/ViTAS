@@ -75,5 +75,21 @@ Our folder structure is as follows:
 ## Training & Evaluation
 The demos of training and evaluating function of our ViTAS  are integrated in the  `toolkit/main.py`. 
 
+## Citation
+
+If you find our works useful in your research, please consider citing:
+
+```
+@article{li2024roadformer,
+  title={Playing to Vision Foundation Model's Strengths in Stereo Matching},
+  author={Chuang-Wei Liu and Chen, Qijun and Fan, Rui},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE},
+  note={{DOI}:{10.1109/TIV.2024.3467287}},
+}
+```
+
 ## Acknowledgment
+
 Some of this repo come from [IGEV-Stereo](https://github.com/gangweiX/IGEV),[GMStereo](https://github.com/autonomousvision/unimatch), and [DINOv2](https://github.com/facebookresearch/dinov2).
