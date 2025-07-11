@@ -80,7 +80,7 @@ The demos of training and evaluating function of our ViTAS  are integrated in th
 If you find our works useful in your research, please consider citing:
 
 ```
-@article{li2024roadformer,
+@article{liu2024playing,
   title={Playing to Vision Foundation Model's Strengths in Stereo Matching},
   author={Chuang-Wei Liu and Chen, Qijun and Fan, Rui},
   journal={IEEE Transactions on Intelligent Vehicles},
